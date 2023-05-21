@@ -23,7 +23,7 @@ public class salario {
 			salarioNovo = salarioAtual * 1.05;
 		}
 
-		// Exibição do resultado
+	
 		System.out.printf("O novo salário do colaborador será de R$ %.2f", salarioNovo);
 	}
 }
